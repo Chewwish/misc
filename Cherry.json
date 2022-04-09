@@ -2,7 +2,7 @@
     "manifest": {
         "name": "Cherry Theme 3",
         "author": "Cherry#7676",
-        "version": "0.4.4"
+        "version": "0.4.5"
     },
     "background": {
         "url": "https:\/\/media.discordapp.net\/attachments\/519845123975282688\/961753301144186880\/Untitled47_20220407182406.png"
@@ -40,8 +40,5 @@
         "drawable_button_red": 2130673535,
         "drawable_open_folder_dark": -1
     },
-    "raws": {
-        "call_calling": "https:\/\/cdn.discordapp.com\/attachments\/895131174270279680\/908534089752150106\/Discord_Remix.mp3",
-        "call_ringing": "https:\/\/cdn.discordapp.com\/attachments\/895131174270279680\/908534089752150106\/Discord_Remix.mp3"
-    }
+    "raws": {}
 }
