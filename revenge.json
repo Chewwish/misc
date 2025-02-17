@@ -1,5 +1,5 @@
 {
-    "name": "ClearVision v1.2.6",
+    "name": "Cherry ClearVision v1.2.6",
     "description": "Clear Vision paints serenity across the canvas of our Discord realm.",
 	"authors": [
       {
@@ -17,7 +17,7 @@
     "rawColors": {
     },
     "background": {
-        "url": "https://raw.githubusercontent.com/jamlotrasoiaf/ThemesCorrected/refs/heads/main/ClearVision/Vendetta/dark.jpg",
+        "url": "https://raw.githubusercontent.com/Chewwish/misc/refs/heads/main/Untitled3_20220421205352.png",
 	"alpha": 1
     },
     "plus": {
