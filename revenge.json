@@ -1,9 +1,37 @@
 {
-  "name": "test",
-  "description": "test",
-  "background": {
-    "url": "https://raw.githubusercontent.com/jamlotrasoiaf/ThemesCorrected/refs/heads/main/ClearVision/Vendetta/dark.jpg",
-    "alpha": 1
-  },
-  "spec": 2
-}
+    "name": "ClearVision v1.2.6",
+    "description": "Clear Vision paints serenity across the canvas of our Discord realm.",
+	"authors": [
+      {
+         "name": "Taki_Shiwa, edited by Sunny",
+         "id": "466968658997149706"
+      }
+    ],
+    "semanticColors": {
+        "CHAT_BACKGROUND": [
+            "transparent",
+            "transparent",
+            "transparent"
+        ]
+    },
+    "rawColors": {
+    },
+    "background": {
+        "url": "https://raw.githubusercontent.com/jamlotrasoiaf/ThemesCorrected/refs/heads/main/ClearVision/Vendetta/dark.jpg",
+	"alpha": 1
+    },
+    "plus": {
+        "version": 0,
+        "customOverlays": true,
+        "icons": {
+            "ic_mic_neutral": "#102b47",
+            "ic_mic_muted_neutral": "#102b47",
+            "ic_soundboard":"#102b47",
+            "ic_soundboard_muted": "#102b47",
+            "ic_video": "#102b47",
+            "ic_video_disabled": "#102b47"
+        },
+        "iconpack":"rosiecord-plumpy"
+    },
+    "spec": 2
+            }
